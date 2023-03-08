@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1610159659 source:d:\librarysystem\big\membermanagement.c
+	"database.h"
+
+1610102633 d:\librarysystem\big\database.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1610159700 source:d:\librarysystem\big\primarymenu.c
+	"database.h"
+
+1610154028 source:d:\librarysystem\big\main.c
+	"database.h"
+
+1610135714 source:d:\librarysystem\big\addbook.c
+	"database.h"
+
+1610159741 source:d:\librarysystem\big\addmember.c
+	"database.h"
+
+1610135699 source:d:\librarysystem\big\bibliographica.c
+	"database.h"
+
+1610135825 source:d:\librarysystem\big\bookmanagement.c
+	"database.h"
+
+1610135723 source:d:\librarysystem\big\deletebook.c
+	"database.h"
+
+1610159753 source:d:\librarysystem\big\modifymember.c
+	"database.h"
+
+1610159617 source:d:\librarysystem\big\shoppingsettlement.c
+	"database.h"
+
+1610107888 source:d:\librarysystem\big\logout.c
+	"database.h"
+
+1610159732 source:d:\librarysystem\big\showmembers.c
+	"database.h"
+
+1610159935 source:d:\librarysystem\xuzunhao\big\addbook.c
+	"database.h"
+
+1610102633 d:\librarysystem\xuzunhao\big\database.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1610159741 source:d:\librarysystem\xuzunhao\big\addmember.c
+	"database.h"
+
+1610159886 source:d:\librarysystem\xuzunhao\big\bibliographica.c
+	"database.h"
+
+1610159965 source:d:\librarysystem\xuzunhao\big\bookmanagement.c
+	"database.h"
+
+1610159942 source:d:\librarysystem\xuzunhao\big\deletebook.c
+	"database.h"
+
+1610159954 source:d:\librarysystem\xuzunhao\big\logout.c
+	"database.h"
+
+1610159870 source:d:\librarysystem\xuzunhao\big\main.c
+	"database.h"
+
+1610159659 source:d:\librarysystem\xuzunhao\big\membermanagement.c
+	"database.h"
+
+1610159753 source:d:\librarysystem\xuzunhao\big\modifymember.c
+	"database.h"
+
+1610159862 source:d:\librarysystem\xuzunhao\big\primarymenu.c
+	"database.h"
+
+1610159617 source:d:\librarysystem\xuzunhao\big\shoppingsettlement.c
+	"database.h"
+
+1610159732 source:d:\librarysystem\xuzunhao\big\showmembers.c
+	"database.h"
+
